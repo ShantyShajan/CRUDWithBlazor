@@ -1,0 +1,169 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\Blazor\\CRUDWithBlazor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3F332A3D-77C7-4273-BCE2-99607C69DEE6}|CRUDWithBlazor.csproj|d:\\projects\\blazor\\crudwithblazor\\pages\\employeeslist.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3F332A3D-77C7-4273-BCE2-99607C69DEE6}|CRUDWithBlazor.csproj|solutionrelative:pages\\employeeslist.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F332A3D-77C7-4273-BCE2-99607C69DEE6}|CRUDWithBlazor.csproj|d:\\projects\\blazor\\crudwithblazor\\pages\\deleteemployee.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3F332A3D-77C7-4273-BCE2-99607C69DEE6}|CRUDWithBlazor.csproj|solutionrelative:pages\\deleteemployee.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F332A3D-77C7-4273-BCE2-99607C69DEE6}|CRUDWithBlazor.csproj|d:\\projects\\blazor\\crudwithblazor\\pages\\editemployee.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3F332A3D-77C7-4273-BCE2-99607C69DEE6}|CRUDWithBlazor.csproj|solutionrelative:pages\\editemployee.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F332A3D-77C7-4273-BCE2-99607C69DEE6}|CRUDWithBlazor.csproj|d:\\projects\\blazor\\crudwithblazor\\data\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F332A3D-77C7-4273-BCE2-99607C69DEE6}|CRUDWithBlazor.csproj|solutionrelative:data\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F332A3D-77C7-4273-BCE2-99607C69DEE6}|CRUDWithBlazor.csproj|d:\\projects\\blazor\\crudwithblazor\\shared\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3F332A3D-77C7-4273-BCE2-99607C69DEE6}|CRUDWithBlazor.csproj|solutionrelative:shared\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F332A3D-77C7-4273-BCE2-99607C69DEE6}|CRUDWithBlazor.csproj|d:\\projects\\blazor\\crudwithblazor\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F332A3D-77C7-4273-BCE2-99607C69DEE6}|CRUDWithBlazor.csproj|solutionrelative:context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F332A3D-77C7-4273-BCE2-99607C69DEE6}|CRUDWithBlazor.csproj|d:\\projects\\blazor\\crudwithblazor\\pages\\addnewemployees.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3F332A3D-77C7-4273-BCE2-99607C69DEE6}|CRUDWithBlazor.csproj|solutionrelative:pages\\addnewemployees.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F332A3D-77C7-4273-BCE2-99607C69DEE6}|CRUDWithBlazor.csproj|d:\\projects\\blazor\\crudwithblazor\\data\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F332A3D-77C7-4273-BCE2-99607C69DEE6}|CRUDWithBlazor.csproj|solutionrelative:data\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F332A3D-77C7-4273-BCE2-99607C69DEE6}|CRUDWithBlazor.csproj|d:\\projects\\blazor\\crudwithblazor\\migrations\\20240725124002_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F332A3D-77C7-4273-BCE2-99607C69DEE6}|CRUDWithBlazor.csproj|solutionrelative:migrations\\20240725124002_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DeleteEmployee.razor",
+              "DocumentMoniker": "D:\\Projects\\Blazor\\CRUDWithBlazor\\Pages\\DeleteEmployee.razor",
+              "RelativeDocumentMoniker": "Pages\\DeleteEmployee.razor",
+              "ToolTip": "D:\\Projects\\Blazor\\CRUDWithBlazor\\Pages\\DeleteEmployee.razor",
+              "RelativeToolTip": "Pages\\DeleteEmployee.razor",
+              "ViewState": "AQIAAAYAAADYO6YInLEwwAsAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-28T13:59:27.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "D:\\Projects\\Blazor\\CRUDWithBlazor\\Shared\\NavMenu.razor",
+              "RelativeDocumentMoniker": "Shared\\NavMenu.razor",
+              "ToolTip": "D:\\Projects\\Blazor\\CRUDWithBlazor\\Shared\\NavMenu.razor",
+              "RelativeToolTip": "Shared\\NavMenu.razor",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABsAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-25T13:32:04.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeesList.razor",
+              "DocumentMoniker": "D:\\Projects\\Blazor\\CRUDWithBlazor\\Pages\\EmployeesList.razor",
+              "RelativeDocumentMoniker": "Pages\\EmployeesList.razor",
+              "ToolTip": "D:\\Projects\\Blazor\\CRUDWithBlazor\\Pages\\EmployeesList.razor",
+              "RelativeToolTip": "Pages\\EmployeesList.razor",
+              "ViewState": "AQIAAAkAAADABEKvnVwtwBgAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-25T12:43:41.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AddNewEmployees.razor",
+              "DocumentMoniker": "D:\\Projects\\Blazor\\CRUDWithBlazor\\Pages\\AddNewEmployees.razor",
+              "RelativeDocumentMoniker": "Pages\\AddNewEmployees.razor",
+              "ToolTip": "D:\\Projects\\Blazor\\CRUDWithBlazor\\Pages\\AddNewEmployees.razor",
+              "RelativeToolTip": "Pages\\AddNewEmployees.razor",
+              "ViewState": "AQIAADYAAAAAAAAAAAAYwEkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-28T12:28:53.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EditEmployee.razor",
+              "DocumentMoniker": "D:\\Projects\\Blazor\\CRUDWithBlazor\\Pages\\EditEmployee.razor",
+              "RelativeDocumentMoniker": "Pages\\EditEmployee.razor",
+              "ToolTip": "D:\\Projects\\Blazor\\CRUDWithBlazor\\Pages\\EditEmployee.razor",
+              "RelativeToolTip": "Pages\\EditEmployee.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-28T13:30:00.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20240725124002_InitialMigration.cs",
+              "DocumentMoniker": "D:\\Projects\\Blazor\\CRUDWithBlazor\\Migrations\\20240725124002_InitialMigration.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240725124002_InitialMigration.cs",
+              "ToolTip": "D:\\Projects\\Blazor\\CRUDWithBlazor\\Migrations\\20240725124002_InitialMigration.cs",
+              "RelativeToolTip": "Migrations\\20240725124002_InitialMigration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T12:40:03.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeeService.cs",
+              "DocumentMoniker": "D:\\Projects\\Blazor\\CRUDWithBlazor\\Data\\EmployeeService.cs",
+              "RelativeDocumentMoniker": "Data\\EmployeeService.cs",
+              "ToolTip": "D:\\Projects\\Blazor\\CRUDWithBlazor\\Data\\EmployeeService.cs",
+              "RelativeToolTip": "Data\\EmployeeService.cs",
+              "ViewState": "AQIAACMAAACAhSVd6BYowD4AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T13:46:27.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\Projects\\Blazor\\CRUDWithBlazor\\Context\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Context\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\Projects\\Blazor\\CRUDWithBlazor\\Context\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Context\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T13:31:30.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\Projects\\Blazor\\CRUDWithBlazor\\Data\\Employee.cs",
+              "RelativeDocumentMoniker": "Data\\Employee.cs",
+              "ToolTip": "D:\\Projects\\Blazor\\CRUDWithBlazor\\Data\\Employee.cs",
+              "RelativeToolTip": "Data\\Employee.cs",
+              "ViewState": "AQIAAAUAAAA4Y/0CRB0twBEAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T13:20:44.006Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
